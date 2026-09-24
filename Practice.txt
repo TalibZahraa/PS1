@@ -1,5 +1,4 @@
 This is me practicing how to use GitHub by make a repository. 
-I made a change to this file by adding this second line lol
 Also.....
 
 
